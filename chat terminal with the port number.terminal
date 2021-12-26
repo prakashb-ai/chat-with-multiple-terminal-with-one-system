@@ -1,0 +1,12 @@
+prakash@prakash-hp:~$ nc -l -vv -p 51433
+Listening on [0.0.0.0] (family 0, port 51433)
+Connection from prakash-hp 50508 received!
+hii ra
+prajash
+how r u 
+
+
+prakash@prakash-hp:~$ nc "here your ip address of you system" 51433
+hii ra
+prajash
+how r u 
